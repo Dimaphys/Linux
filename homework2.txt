@@ -1,0 +1,61 @@
+   0 cd ..
+   1 cd home
+   2 ls
+   3 mkdir user
+   4 cd user
+   5 mkdir start
+   6 cd start
+   7 touch 1.txt
+   8 ls
+   9 date
+  10 >> 1.txt
+  11 cat 1.txt
+  12 less 1.txt
+  13 date
+  14 date >> 1.txt
+  15 less 1.txt
+  16 Start >> 1.txt
+  17 cat/etc/group
+  18 cat
+  19 cat 1.txt
+  20 echo Start
+  21 echo Start >> 1.txt
+  22 cat 1.txt
+  23 cd ..
+  24 cd opt
+  25 mkdir task
+  26 cd task
+  27 cd
+  28 /home/user/start/
+  29 cd..
+  30 cd ..
+  31 /home/user/start/
+  32 cd /home/user/start/
+  33 cp 1.txt /opt/task/start.txt
+  34 cd
+  35 cd ..
+  36 cd opt
+  37 cd task
+  38 ls
+  39 cat start.txt
+  40 ls / | tail-6 | >> start.txt
+  41 cat start.txt
+  42 cat ls / | tail-6 | >> start.txt 
+  43 cd ..
+  44 touch 2.txt
+  45 ls / >> 2.txt
+  46 cat 2.txt
+  47 mv 2.txt /opt/task
+  48 cd opt/task
+  49 ls
+  50 cat 2.txt | tail -6 | >> start.txt 
+  51 cat start.txt 
+  52 ls
+  53 cat 2.txt
+  54 cat start.txt
+  55 cat 2.txt |tail -6| >> start.txt
+  56 cat start.txt 
+  57 cat 2.txt |tail -6 >> start.txt
+  58 cat start.txt
+  59 history
+  60 history >> homework2.txt
