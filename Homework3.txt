@@ -1,0 +1,23 @@
+ cd /opt
+ 1001  ls
+ 1002  cd 37_38_morning_b
+ 1003  ls
+ 1004  cd vasilev
+ 1005  touch chmodFile
+ 1006  ls
+ 1007  rm chmodFile
+ 1008  ls
+ 1009  touch chmodFile.txt
+ 1010  ls
+ 1011  echo data
+ 1012  date >> chmodFile.txt
+ 1013  cat chmodFile.txt
+ 1014  vi chmodFile.txt
+ 1015  cat chmodFile.txt
+ 1016  vi chmodFile.txt
+ 1017  cat chmodFile.txt
+ 1018  ls -la
+ 1019  ls
+ 1020  chmod 311 chmodFile.txt
+ 1021  ls -la
+ 1022  history>history.txt
