@@ -1,0 +1,119 @@
+   0 ls
+   1 ls -p
+   2 mkdir test
+   3 cd test
+   4 touch sleeper.sh
+   5 chmod 744 sleeper.sh
+   6 ls
+   7 nano sleeper.sh 
+   8 ./sleeper.sh 
+   9 nano sleeper.sh 
+  10 ./sleeper.sh 
+  11 nano sleeper.sh 
+  12 ./sleeper.sh 
+  13 nano sleeper.sh 
+  14 ./sleeper.sh 
+  15 nano sleeper.sh 
+  16 ./sleeper.sh 
+  17 nano sleeper.sh 
+  18 ./sleeper.sh 
+  19 nano sleeper.sh 
+  20 ./sleeper.sh 
+  21 nano sleeper.sh 
+  22 ./sleeper.sh 
+  23 nano sleeper.sh 
+  24 ./sleeper.sh 
+  25 nano sleeper.sh 
+  26 ./sleeper.sh 
+  27 nano sleeper.sh 
+  28 ./sleeper.sh 
+  29 nano sleeper.sh 
+  30 ./sleeper.sh 
+  31 nano sleeper.sh 
+  32 ./sleeper.sh 
+  33 nano sleeper.sh 
+  34 ./sleeper.sh 
+  35 nano sleeper.sh 
+  36 ./sleeper.sh 
+  37 nano sleeper.sh 
+  38 ./sleeper.sh 
+  39 nano sleeper.sh 
+  40 ./sleeper.sh 
+  41 nano sleeper.sh 
+  42 ./sleeper.sh 
+  43 nano sleeper.sh 
+  44 ./sleeper.sh 
+  45 nano sleeper.sh 
+  46 ./sleeper.sh 
+  47 ls cpu
+  48 lscpu
+  49 ./sleeper.sh 
+  50 nano sleeper.sh 
+  51 ./sleeper.sh 
+  52 nano sleeper.sh 
+  53 ./sleeper.sh 
+  54 nano sleeper.sh 
+  55 cat /etc/os-release |grep "NAME=Alpine Linux"
+  56 cat /etc/os-release
+  57 cat /etc/os-release | grep NAME="Alpin Linux"
+  58 cat /etc/os-release | grep "NAME=Alpin Linux"
+  59 cat /etc/os-release | grep NAME=Alpin Linux
+  60 cat /etc/os-release | grep NAME
+  61 cat /etc/os-release | grep NAME=
+  62 cat /etc/os-release | grep NAME="Alpin
+  63 cat /etc/os-release | grep NAME=Alpin
+  64 cat /etc/os-release | grep NAME | grep Alpin Linux
+  65 cat /etc/os-release | grep NAME | grep Alpin
+  66 cat /etc/os-release | grep NAME | grep Alpin |grep Linux
+  67 cat /etc/os-release | tail-9
+  68 cat /etc/os-release | head -n1
+  69 nano sleeper.sh 
+  70 touch info.txt
+  71 nano sleeper.sh 
+  72 touch info.txt
+  73 ./sleeper.sh 
+  74 ls
+  75 cat info.txt
+  76  awk ‘{print$3}’ e
+  77 cat /etc/os-release | head -n1 | awk {print$3}
+  78  awk ‘{print$3}’ etc/os-release
+  79  awk ‘{print $3}’ etc/os-release
+  80  awk ‘{print $3}’ info.txt 
+  81 awk '{print $3}' info.txt
+  82 awk '{print $3}' etc/os-release
+  83 awk '{print $3}' info.txt | tail -n1
+  84 awk '{print $2}' info.txt | tail -n1
+  85 awk '{print $1}' info.txt | tail -n1
+  86 awk '{print $1}' info.txt | grep Alpine
+  87 awk '{print $1}' info.txt
+  88 awk '{print $1}' info.txt | tail -n1
+  89 awk '{print $1}' info.txt | tail -n1 | grep Alpine
+  90 awk '{print $1}' info.txt | tail -n1 | cut -f
+  91 awk '{print $1}' info.txt | tail -n1 | cut -f 1
+  92 awk '{print $1}' info.txt | tail -n1 | cut -f 1 - d 2
+  93 awk '{print $1}' info.txt | tail -n1 | 
+  94 awk '{print $1}' info.txt | tail -n1 | grep Alpine
+  95 awk '{FS='='; print $1}' info.txt | tail -n1 | grep Alpine
+  96 awk '{FS='='; print $1}' info.txt | tail -n1 |
+  97 awk '{FS='='; print $1}' info.txt | tail -n1 | grep Alpine
+  98 awk '{FS='='; print $1}' info.txt | tail -n1
+  99 awk '{FS="="; print $1}' info.txt | tail -n1
+ 100 awk '{FS="="; print $2}' info.txt | tail -n1
+ 101 nano sleeper.sh 
+ 102 ./sleeper.sh 
+ 103 ls
+ 104 cat info.txt 
+ 105 nano sleeper.sh 
+ 106 cat info.txt 
+ 107 ./sleeper.sh 
+ 108 ls
+ 109 cat i.txt 
+ 110 nano sleeper.sh 
+ 111 cat i.txt 
+ 112 ./sleeper.sh 
+ 113 ls
+ 114 nano sleeper.sh 
+ 115 ./sleeper.sh 
+ 116 ls
+ 117 nano sleeper.sh 
+ 118 history >> history.txt

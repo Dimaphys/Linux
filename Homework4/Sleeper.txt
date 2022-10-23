@@ -1,0 +1,14 @@
+#!/bin/bash
+for var in 1 2 3 4 5 6 7 8 9 10
+do
+date +“%H:%M:%S”
+ps -ef | grep tty | wc -l
+sleep 1
+done
+lscpu >> info.txt
+cat /etc/os-release | head -n1 >> info.txt
+awk '{FS="="; print $2}' info.txt | tail -n1 >> info.txt
+for ((i = 50; i <= 100; i++ ))
+do
+touch $i.txt
+done
