@@ -1,0 +1,11 @@
+ 1082  taskName.sh >> taskDmitrii.sh
+ 1083  ls
+ 1084  nano taskDmitrii.sh
+ 1085  nano taskName.sh
+ 1086  nano taskDmitrii.sh
+ 1087  chmod 744 taskDmitrii.sh
+ 1088  ls
+ 1089  realpath taskDmitrii.sh
+ 1090  crontab -e
+ 1091  crontab -l
+ 1092  ls
